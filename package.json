@@ -1,0 +1,12 @@
+{
+  "name": "fabowl",
+  "description": "Football fantasy app",
+  "version": "0.0.1",
+  "author": "Munir Ahmed Elsangedy <elsangedy@gmail.com>",
+  "main": "index.js",
+  "repository": "https://github.com/elsangedy/fabowl.git",
+  "license": "MIT",
+  "dependencies": {
+    "preact": "^8.2.9"
+  }
+}
