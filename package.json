@@ -10,6 +10,7 @@
     "dev": "nodemon -e js,scss -w src -x \"node build && node ./build/index.js\"",
     "start": "node ./build/index.js",
     "build": "node build",
+    "heroku-postbuild": "node build",
     "test": "standard"
   },
   "dependencies": {
